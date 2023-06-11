@@ -1,1 +1,1 @@
-# GenAI
+# MatrixBot
